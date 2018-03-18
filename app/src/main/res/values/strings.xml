@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Arkan_1202154146_MODUL4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+
+    <string name="cari_gambar">Cari Gambar</string>
+
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+
+    <string name="masukkan_url_gambar">Masukkan URL Gambar</string>
+
+    <string name="klik_mencari_gambar">Klik untuk mencari gambar</string>
+
+    <string name="link_gambar">https://zdnet3.cbsistatic.com/hub/i/2016/08/08/7ef3afcf-ec15-44da-a066-b22bf58dcca4/98dcadc9295d1592c0443697633455e5/android-security-1.jpg</string>
+
+    <!-- buat array -->
+
+    <string-array name="names">
+
+        <item>budi</item>
+
+        <item>ani</item>
+
+        <item>tono</item>
+
+        <item>toni</item>
+
+        <item>tona</item>
+
+        <item>slamet</item>
+
+        <item>buda</item>
+
+        <item>bodo</item>
+
+        <item>ari</item>
+
+        <item>aro</item>
+
+        <item>Arif</item>
+
+    </string-array>
+</resources>
